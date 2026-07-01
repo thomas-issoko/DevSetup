@@ -24,7 +24,7 @@ Ce dépôt contient la configuration complète de mon environnement de développ
 - git commit -m "message" : Enregistrer les modifications dans l'historique.
 - git push -u origin main : Envoyer les fichiers locaux vers le dépôt distant GitHub.
 
-- ## Comment utiliser ce dépôt
+ ## Comment utiliser ce dépôt
 Cloner le dépôt sur votre machine : git clone https://github.com/thomas-issoko/DevSetup.git
 
 Entre dans le dossier : cd DevSetup
