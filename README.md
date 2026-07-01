@@ -9,7 +9,7 @@ Ce dépôt contient la configuration complète de mon environnement de développ
 - Réaliser mon premier commit et push sur GitHub.
 
 ##  Outils & Environnement installés
-- Éditeur de texte : Visual Studio Code (VSCode) avec les extensions recommandées.
+- Éditeur de code : Visual Studio Code (VSCode) avec les extensions recommandées.
 - Gestionnaire de versions : Git & GitHub pour le suivi du code.
 - Environnement d'exécution : Node.js (Version LTS).
 
