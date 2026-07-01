@@ -1,0 +1,1 @@
+console.log("Hello Akieni Academy, la configuration fonctionne !");

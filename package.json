@@ -1,0 +1,14 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "Mon premier environnement dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "author": "Thomas ISSOKO",
+  "license": "ISC"
+}
