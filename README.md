@@ -23,3 +23,19 @@ Ce dépôt contient la configuration complète de mon environnement de développ
 - git add . : Préparer les fichiers pour le commit.
 - git commit -m "message" : Enregistrer les modifications dans l'historique.
 - git push -u origin main : Envoyer les fichiers locaux vers le dépôt distant GitHub.
+
+- ## Comment utiliser ce dépôt
+Cloner le dépôt sur votre machine : git clone https://github.com/thomas-issoko/DevSetup.git
+
+Entre dans le dossier : cd DevSetup
+
+Consultez les notes dans le dossier notes/:
+- installation.md → Notes d'installation et outils de base
+- commandes.md → Aide-mémoire des commandes Terminal & Git
+- web_bases.md → Bases du Web et fonctionnement d'un ordinateur
+
+## Scripts disponibles
+npm run dev → lancer le serveur avec Nodemon (rechargement automatique)
+
+## Auteur
+Thomas ISSOKO en formation à Akieni Academy parcours FullStack
